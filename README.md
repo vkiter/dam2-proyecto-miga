@@ -58,5 +58,5 @@ Los commits siguen **Conventional Commits** (`feat:`, `fix:`, `docs:`, `chore:`,
 
 ## 📋 Gestión del proyecto
 
-- **Tablero Kanban:** [Tablero de Desarrollo - M.I.G.A.](https://github.com/users/vkiter/projects/PENDIENTE)
+- **Tablero Kanban:** [Tablero de Desarrollo - M.I.G.A.](https://github.com/users/vkiter/projects/3)
 - **Issues:** redactadas como historias de usuario con criterios de aceptación.
