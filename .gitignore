@@ -1,0 +1,51 @@
+# -----------Pendiente actualización según stack-------------------
+
+# ---------- .NET / C# / WPF / Visual Studio ----------
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userprefs
+[Dd]ebug/
+[Rr]elease/
+TestResults/
+*.nupkg
+packages/
+appsettings.Development.json
+
+# ---------- Android Studio / Gradle (si aplica) ----------
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# ---------- Python / Odoo (si aplica) ----------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ---------- Node (si aplica) ----------
+node_modules/
+dist/
+
+# ---------- Secretos ----------
+.env
+*.env
+secrets.json
+
+# ---------- Logs ----------
+*.log
+
+# ---------- Sistema operativo ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.swp
